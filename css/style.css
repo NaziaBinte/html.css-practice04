@@ -1,0 +1,59 @@
+.header{ height: 100px;
+     background-color:slateblue ;
+
+}
+h1{text-align: center;
+
+
+}
+ .container{ overflow: hidden;
+
+ }
+ .blog{ float:left;
+    width:40%;
+    height:150px;
+    background-color:lightpink;
+
+ }
+ h2{border-style: dashed; width: fit-content;
+ }
+
+
+ .contact{ float: right;
+ width: 60%; 
+height: 150px;
+background-color: #b17b84d1;}
+
+
+ .wrapper{ overflow: hidden; }
+ 
+.box{ float: left;
+    height: 100px;
+    width: 33.33%;
+    text-align: center;
+    font color: black;
+    font-size: 30px;
+    font-style: italic;
+
+ }
+ .red{background-color: #3b9ec673;
+    
+
+     
+
+
+
+ }
+ .blue{ background-color: floralwhite;
+
+ }
+ .black{ background-color: #3b9ec673; }
+
+ .footer{ height: 50px;
+    background-color: #5965a6;
+    text-align: center;
+    font-size: 20px;
+
+
+
+ }
